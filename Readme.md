@@ -1,5 +1,5 @@
-<img src="assets/image.png" width="100%" alt="profile" border="0"/>
-<h3 align="center">A passionate developer from India</h3>
+<img src="assets/image.png" width="90%" alt="profile" border="0"/>
+
 
 <p align="center"> <a href="https://moonlab.top/"><img src="https://counter.moonlab.top/counter/img?id=korrykatti" alt="Profile views since 16/03/2024" /></a> </p>
 
