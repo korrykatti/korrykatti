@@ -4,7 +4,6 @@
 
 <p align="center"> <a href="https://moonlab.top/"><img src="https://counter.moonlab.top/counter/img?id=korrykatti" alt="Profile views since 16/03/2024" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/korrykatti" target="blank"><img src="https://img.shields.io/twitter/follow/korrykatti?logo=twitter&style=for-the-badge" alt="korrykatti" /></a> </p>
 
 - 🔭 I’m currently working on [Thunder 🗲](https://github.com/KorryKatti/Thunder)
 
