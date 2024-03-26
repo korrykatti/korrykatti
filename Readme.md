@@ -5,15 +5,19 @@
 <p align="center"> <a href="https://moonlab.top/"><img src="https://counter.moonlab.top/counter/img?id=korrykatti" alt="Profile views since 16/03/2024" /></a> </p>
 
 
-- 🔭 I’m currently working on [Thunder 🗲](https://github.com/KorryKatti/Thunder)
+- Name **Korry** 
 
-- 🌱 I’m currently learning **Python**
+- Live in **India**
 
-- 🤝 I’m looking for help with [Thunder 🗲](https://github.com/KorryKatti/Thunder)
+- Studying [**Too much calculus ( still dont get it )**](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
 
-- 💬 Ask me about **anything ( idk anything )**
+- Familiar with **GNU/Linux** and **FreeBSD**
 
-- ⚡ Fun fact **I enjoy anime**
+- Good with **JavaScript** , **TypeScript** , **PHP** , **Go** , and **Python**
+
+- Have high experience with **Photoshop** and **CorelDRAW**
+  
+- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
