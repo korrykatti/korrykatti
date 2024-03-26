@@ -1,4 +1,4 @@
-<img src="assets/image.png" width="90%" alt="profile" border="0"/>
+<img src="assets/image.png" width="100%" alt="profile" border="10"/>
 
 
 <p align="center"> <a href="https://moonlab.top/"><img src="https://counter.moonlab.top/counter/img?id=korrykatti" alt="Profile views since 16/03/2024" /></a> </p>
