@@ -11,13 +11,11 @@
 
 - Studying [**Too much calculus ( still dont get it )**](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
 
-- Familiar with **GNU/Linux** and **FreeBSD**
+- Familiar with **Arch Linux**
 
-- Good with **JavaScript** , **TypeScript** , **PHP** , **Go** , and **Python**
-
-- Have high experience with **Photoshop** and **CorelDRAW**
+- Good with **Python** , **Javascript** and **HTML ???** 
   
-- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
+- Understand हिंदी and English
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
