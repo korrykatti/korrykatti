@@ -36,7 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korrykatti&show_icons=true&locale=en" alt="korrykatti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korrykatti&" alt="korrykatti" /></p>
-
-## Repository Contribution Stats
-
-![Korry's GitHub Repository Contribution stats](https://github-readme-stats.vercel.app/api/wakatime?username=KorryKatti)
