@@ -39,4 +39,4 @@
 
 ## Repository Contribution Stats
 
-![Korry's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KorryKatti)
+![Korry's GitHub Repository Contribution stats](https://github-readme-stats.vercel.app/api/wakatime?username=KorryKatti)
