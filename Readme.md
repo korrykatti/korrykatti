@@ -38,8 +38,28 @@
 </p>
 
 <p align="center">
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&cover_image=false&theme=default&show_offline=true&background_color=3d3846&interchange=false&bar_color=ed333b&bar_color_cover=true)
-</p>
+  ## Example
+
+- Default theme
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7)
+
+- Compact theme
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&compact=true)
+
+- Natemoo-re theme
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&theme=natemoo-re)
+
+- Novatorem theme
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&theme=novatorem)
+
+- Karaoke theme
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&theme=karaoke)
+
 
 <h3 align="left">Support:</h3>
 <p>
