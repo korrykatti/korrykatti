@@ -37,4 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korrykatti&" alt="korrykatti" /></p>
 
-<p>![](https://hit.yhype.me/github/profile?user_id=143781663)</p>
