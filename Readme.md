@@ -60,7 +60,7 @@
 ## Spotify Stats
 
 <p align="center">
-  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&compact=true)
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&theme=natemoo-re" alt="Spotify Stats" />
 </p>
 
 ## Support
