@@ -1,6 +1,6 @@
 # KorryKatti's Profile
 
-![Anime Background](https://i.pinimg.com/736x/36/06/be/3606be88bb1fbe6130eecde8b20c6715.jpg)
+![Background](https://i.pinimg.com/736x/36/06/be/3606be88bb1fbe6130eecde8b20c6715.jpg)
 
 ## Profile Views
 
@@ -17,7 +17,7 @@
 
 ## Spotify Stats
 
-![Anime Character Listening to Music](https://example.com/character_music.png)
+![Spotify Stats](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&theme=natemoo-re)
 
 ## GitHub Stats
 
