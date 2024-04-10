@@ -1,6 +1,4 @@
-# KorryKatti's Profile
 
-![Background](https://i.pinimg.com/736x/36/06/be/3606be88bb1fbe6130eecde8b20c6715.jpg)
 
 ## Profile Views
 
