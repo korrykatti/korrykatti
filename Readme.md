@@ -19,8 +19,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://example.com/github_stats.png)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korrykatti&show_icons=true&locale=en&layout=compact" alt="korrykatti" />
+</p>
 
-## Repository Contribution Stats
-
-![Korry's GitHub Repository Contribution stats](https://example.com/repository_contribution_stats.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korrykatti&show_icons=true&locale=en" alt="korrykatti" /></p>
