@@ -17,6 +17,10 @@
 
 ![Spotify Stats](https://spotify-github-profile.vercel.app/api/view.svg?uid=c9khdo6s2n2q8o54qe7punql7&theme=natemoo-re)
 
+## Reach Me
+[![Matrix](https://img.shields.io/badge/Matrix-@korrykatti:matrix.org-blue)](https://matrix.to/#/@korrykatti:matrix.org)
+
+
 ## GitHub Stats
 
 <p>
