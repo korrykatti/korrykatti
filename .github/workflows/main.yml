@@ -8,18 +8,6 @@ on:
   push:
     branches: ["master", "main"]
 jobs:
-  stargazers-graph:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Stargazers Graph
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stargazers.graph.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: graph
-
   achievements-compact:
     runs-on: ubuntu-latest
     steps:
