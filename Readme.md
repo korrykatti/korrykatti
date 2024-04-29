@@ -3,6 +3,6 @@
 
 <p align="center">
   <img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" width="400">
-  <img src="/metrics.plugin.stargazers.graph.svg" alt="Stargazers Graph" width="400">
+  <!--<img src="/metrics.plugin.stargazers.graph.svg" alt="Stargazers Graph" width="400">-->
 </p>
 
