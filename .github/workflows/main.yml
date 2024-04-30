@@ -24,16 +24,16 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
 
-  mbti-personality-profile:
+  recent-activity-charts:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate MBTI Personality Profile
+      - name: Generate Recent Activity Charts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.16personalities.svg
+          filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: no
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata
