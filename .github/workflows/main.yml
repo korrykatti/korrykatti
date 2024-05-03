@@ -33,16 +33,3 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-
-  steam-game-history:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Profile and detailed game history
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.steam.full.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: yes
-          plugin_steam_user: "0"
