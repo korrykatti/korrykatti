@@ -5,3 +5,5 @@
   <!--<img src="/metrics.plugin.habits.facts.svg" alt="Mildly Interesting Facts" width="400">
   <img src="/metrics.plugin.steam.full.svg" alt="Profile and Detailed Game History" width="400">-->
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=korrykatti&label=Profile%20views&color=0e75b6&style=flat" alt="korrykatti" /> </p>
