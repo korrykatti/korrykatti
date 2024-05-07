@@ -45,3 +45,17 @@ jobs:
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
+
+  wakatime-metrics:
+    runs-on: ubuntu-latest
+    name: WakaTime Metrics
+    steps:
+      - name: Generate WakaTime Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.WAKATIME_TOKEN }}  # Replace NOT_NEEDED with your actual secret
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}  # Replace NOT_NEEDED with your actual secret
