@@ -31,18 +31,4 @@ jobs:
           plugin_stars: yes
           config_order: base.header, isocalendar, languages, stars
 
-  detailed-display:
-    runs-on: ubuntu-latest
-    name: Detailed Display
-    steps:
-      - name: Generate Detailed Display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
 
