@@ -31,15 +31,4 @@ jobs:
           plugin_stars: yes
           config_order: base.header, isocalendar, languages, stars
 
-  wakatime-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate WakaTime Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+ 
